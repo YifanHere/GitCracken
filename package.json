@@ -6,6 +6,10 @@
   "license": "MIT",
   "private": true,
   "homepage": "https://blog.jubeat.net/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YifanHere/GitCracken.git"
+  },
   "main": "dist/index.js",
   "bin": {
     "gitcracken": "dist/bin/gitcracken.js"

@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# scratch / local artifacts
+work/
+docs/
+*.log
+*.bak
+*.backup
+app.asar*
+!app.asar.unpacked/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

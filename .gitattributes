@@ -1,0 +1,7 @@
+# Normalize line endings: the project is developed with LF (tsconfig "newLine": "lf")
+* text=auto eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.ico binary
